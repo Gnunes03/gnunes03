@@ -25,7 +25,7 @@ Para conhecer um pouco da minha trajetória e busca persistente por conhecimento
         <img 
             alt="GitHub" 
             title="Me siga no GitHub" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
+            src="https://iconduck.com/icons/190904/github"
         />
     </a>
 </p>
