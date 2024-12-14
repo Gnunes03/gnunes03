@@ -4,7 +4,6 @@
 
 ---
 ---
----
 **Estudante de CyberSegurança**
 
 <p align="justify">45 anos, Formada em Sistemas da Informação e Bacharel em Direito, com 13 anos de experiência na área de TI. Os últimos 5 anos militar da ativa.
@@ -14,7 +13,7 @@ Foram 13 anos em uma empresa como tecnica em informática (suporte e atendimento
 Para conhecer um pouco da minha trajetória e busca persistente por conhecimento entre em contato.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/gnunesgns/">
+    <a href="https://www.linkedin.com/in/gnunesgns">
         <img 
             alt="Linkedin" 
             title="Linkedin" 
@@ -30,7 +29,6 @@ Para conhecer um pouco da minha trajetória e busca persistente por conhecimento
     </a>
 </p>
 
----
 ---
 ---
 
