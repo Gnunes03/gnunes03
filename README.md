@@ -18,20 +18,53 @@ Para conhecer um pouco da minha trajetória e busca persistente por conhecimento
             alt="Linkedin" 
             title="Linkedin" 
             src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"
-        />
+            style="width:60px; height:60px;">    
     </a>
-    <a href="https://github.com/Gnunes03">
         <img 
-            alt="GitHub" 
-            title="Me siga no GitHub" 
-            src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000"
-        />
-    </a>
-</p>
+            alt="Linkedin" 
+            title="Linkedin" 
+            src="https://github.com/user-attachments/assets/3bfb8eed-6d3c-4536-8449-7dd055a2e9de"
+            style="width:60px; height:60px;">  
+   </p>
 
 ---
 ---
+### 🤖 Certificações e Certificados 
 
+<img src="https://github.com/user-attachments/assets/ddfcb5ca-787b-40ea-8c04-4df4fc57133f"
+         align="left" 
+         alt="cert" 
+         style="width:100px; height:100px;">    
+         
+<img src="https://github.com/user-attachments/assets/b29b1487-0db8-47cd-aaba-2486974d9a6c"
+         align="left" 
+         alt="cert" 
+        style="width:100px; height:100px;">   
+         
+<img src="https://github.com/user-attachments/assets/3b01f646-4947-4f0c-9dab-54daf14f6cbf"
+         align="left" 
+         alt="cert" 
+         style="width:100px; height:100px;">  
+
+<img src="https://github.com/user-attachments/assets/f3f358ec-1975-43a3-8ac6-df7de56cdb14"
+         align="left" 
+         alt="cert" 
+         style="width:100px; height:100px;">      
+
+<img src="https://github.com/user-attachments/assets/850fe1be-840a-4a8c-aab4-cc1738cc7997"
+         align="left" 
+         alt="cert" 
+         style="width:100px; height:100px;">         
+
+<img src="https://github.com/user-attachments/assets/b89489f0-160e-4d31-8d1c-6e1b898fc6ae"
+         align="left" 
+         alt="cert" 
+         style="width:100px; height:100px;">   
+<br>
+</br>
+<br>
+</br>  <br>
+</br>     
 
 ### 🤖 Linguagens e Tecnologias
 
